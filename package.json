@@ -1,6 +1,6 @@
 {
   "name": "grandma-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple CLI for scaffolding Vue  &amp; React projects。",
   "main": "index.js",
   "bin": {
