@@ -1,6 +1,6 @@
 {
   "name": "grandma-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple CLI for scaffolding Vue  &amp; React projects。",
   "main": "index.js",
   "bin": {
@@ -9,16 +9,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "vue",
-    "react",
-    "webpack"
-  ],
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/189/grandma-cli.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
