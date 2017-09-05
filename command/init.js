@@ -44,7 +44,7 @@ module.exports = (name) => {
             }
         })
 
-        console.info(`正在克隆模板 ${dirname}...`);
+        console.info(`正在获取模板创建本地目录${dirname}...`);
 
         child.exec(order, (error, stdout, stderr) => {
         	var absolute = path.join(cwd, dirname);
