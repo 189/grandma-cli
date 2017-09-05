@@ -32,7 +32,7 @@
     "ora": "^1.3.0"
   },
   "templates": {
-    "react": "git@github.com:189/quick-demo.git",
+    "webpack": "git@github.com:189/webpack-template.git",
     "react-redux": "git@github.com:189/React-redux-template.git"
   }
 }
